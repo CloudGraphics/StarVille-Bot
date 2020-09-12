@@ -1,0 +1,39 @@
+{
+  "embeds": [
+    {
+      "title": "🌀 StarVille Ingame Update 1.10 🌀",
+      "description": " ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ",
+      "color": 64713,
+      "fields": [
+        {
+          "name": "🔰 𝗠𝗮𝗽 𝗨𝗽𝗱𝗮𝘁𝗲𝘀",
+          "value": "🔄 Police Station\n🆕 Tankstelle",
+          "inline": true
+        },
+        {
+          "name": "🔰 𝙑𝙚𝙝𝙞𝙘𝙡𝙚𝙨",
+          "value": "🆕 BMW M5 \n🆕 Ferrarie   \n🆕 Audi RS7'",
+          "inline": true
+        },
+        {
+          "name": "🔰 𝙍𝙚𝙢𝙤𝙫𝙚𝙙 ",
+          "value": "🚫 Lambo ",
+          "inline": true
+        }
+      ],
+      "author": {
+        "name": "Starville"
+      },
+      "footer": {
+        "text": "New [🆕] - Updated [🔄] - Removed [🚫]'",
+        "icon_url": "https://cdn.discordapp.com/attachments/734639276360335465/753919229484335254/Bot.png"
+      },
+      "timestamp": "2020-09-11T15:18:00.000Z",
+      "thumbnail": {
+        "url": "https://cdn.discordapp.com/attachments/734639276360335465/753928439001514004/Ingame-update.png"
+      }
+    }
+  ],
+  "username": "StarVille Bot",
+  "avatar_url": "https://cdn.discordapp.com/attachments/734639276360335465/753919229484335254/Bot.png"
+}
